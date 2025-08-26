@@ -41,11 +41,7 @@ Other distributions provide equivalent packages, which at minimum allow compilin
 
 ### Build Procedure
 
-1. **Clone the repository:**
-
-   ```sh
-   git clone git@github.com:eurecom-s3/lemon.git && cd lemon
-   ```
+1. **Clone the repository**
 
 2. **Compile:**
 
